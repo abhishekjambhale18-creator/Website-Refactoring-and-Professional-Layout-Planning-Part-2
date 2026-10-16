@@ -1,4 +1,4 @@
-# 🍔 BiteBox Lab 9 – Shopping Cart & Contact Page
+# 🍔 BiteBox Lab 9 – Website Refactoring & Professional Layout Planning Part - 2
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
