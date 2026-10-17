@@ -74,4 +74,4 @@ HTML5
 ---
 
 **Series Navigation**  
-← [Lab 8 – Full Website Structure](https://github.com/abhishekjambhale18-creator/Website-Refactoring-and-Professional-Layout-Planning-Part-1) | [Lab 10 – CSS Basics](https://github.com/abhishekjambhale18-creator/BiteBox-CSS-Reset-Navigation) →
+← [Lab 8 – Full Website Structure](https://github.com/abhishekjambhale18-creator/Website-Refactoring-and-Professional-Layout-Planning-Part-1) | [Lab 10 – Nevigation Using CSS Basics](https://github.com/abhishekjambhale18-creator/BiteBox-CSS-Reset-Navigation) →
